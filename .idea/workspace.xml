@@ -31,7 +31,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../training-spring-ioc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.codeInsight.hints.config.SingleLanguageInlayHintsConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +72,12 @@
       <workItem from="1568346945008" duration="253000" />
       <workItem from="1568347393238" duration="2302000" />
       <workItem from="1568353453103" duration="631000" />
+      <workItem from="1568473778982" duration="2904000" />
+      <workItem from="1568513043377" duration="316000" />
+      <workItem from="1568550892409" duration="617000" />
+      <workItem from="1568563149513" duration="2306000" />
+      <workItem from="1568601208439" duration="621000" />
+      <workItem from="1568608848191" duration="674000" />
     </task>
     <servers />
   </component>
